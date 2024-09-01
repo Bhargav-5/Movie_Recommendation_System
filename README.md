@@ -1,4 +1,4 @@
 # Movie_Recommendation_System
-install streamlit as st
+install streamlit 
 install pickle
-install pandas as pd
+install pandas
